@@ -5,8 +5,10 @@ Mining Mental Health Patterns in User Tweets and Resource Allocation via Sentime
 Transitioning from generic tweets, our data journey led to mental health insights. The detection of users
 expressing negativity guides targeted support initiatives, offering a pragmatic approach to bolster mental
 well-being.
+
 • Evaluate the cross-domain performance of sentiment analysis models by testing their efficacy on mental
 health-related tweets using keywords derived from topic modelling.
+
 • Enhance online well-being by proactively extending mental health resources to users expressing
 negative sentiments.
 
